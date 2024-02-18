@@ -37,9 +37,6 @@ const User = sequelize.define('user', {
       telephone: {
         type: DataTypes.STRING,
         allowNull: false,
-        validate: {
-          len: [10, 10], // Enforce 10-digit phone number length
-        },
       },
       role: {
         type: DataTypes.ENUM(["admin","client","entrepise"]),

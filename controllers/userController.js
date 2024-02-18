@@ -11,6 +11,7 @@ const getAllUsers = async (req, res) => {
     }
 };
 
+
 const getUserById = async (req, res) => {
     const userID = req.params.userID;
     try {

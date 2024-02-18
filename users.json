@@ -1,0 +1,93 @@
+[
+    {
+      "nom": "ali",
+      "prenom": "omer",
+      "email": "ali.omer@example.com",
+      "password": "password123",
+      "adresse": "12 Rue de la Paix, Tunis",
+      "telephone": "+216 22 33 44 55",
+      "role": "user"
+    },
+    {
+      "nom": "yasmine",
+      "prenom": "fatma",
+      "email": "yasmine.fatma@example.com",
+      "password": "password456",
+      "adresse": "34 Avenue Bourguiba, Sousse",
+      "telephone": "+216 77 88 99 00",
+      "role": "user"
+    },
+    {
+      "nom": "khaled",
+      "prenom": "mohamed",
+      "email": "khaled.mohamed@example.com",
+      "password": "password789",
+      "adresse": "56 Boulevard Hassan II, Sfax",
+      "telephone": "+216 33 44 55 66",
+      "role": "user"
+    },
+    {
+      "nom": "leila",
+      "prenom": "amina",
+      "email": "leila.amina@example.com",
+      "password": "password012",
+      "adresse": "78 Rue Ibn Khaldoun, Kairouan",
+      "telephone": "+216 11 22 33 44",
+      "role": "admin"
+    },
+    {
+      "nom": "sofiane",
+      "prenom": "youssef",
+      "email": "sofiane.youssef@example.com",
+      "password": "password345",
+      "adresse": "90 Avenue Habib Bourguiba, Nabeul",
+      "telephone": "+216 55 66 77 88",
+      "role": "user"
+    },
+    {
+      "nom": "maryam",
+      "prenom": "muna",
+      "email": "maryam.muna@example.com",
+      "password": "password678",
+      "adresse": "102 Rue de l'Indépendance, Monastir",
+      "telephone": "+216 99 00 11 22",
+      "role": "user"
+    },
+    {
+      "nom": "adel",
+      "prenom": "hakim",
+      "email": "adel.hakim@example.com",
+      "password": "password901",
+      "adresse": "114 Rue Farhat Hached, Bizerte",
+      "telephone": "+216 44 55 66 77",
+      "role": "user"
+    },
+    {
+      "nom": "yaakoubi",
+      "prenom": "sarah",
+      "email": "yaakoubi.sarah@example.com",
+      "password": "password234",
+      "adresse": "126 Rue de la République, Jendouba",
+      "telephone": "+216 88 99 00 11",
+      "role": "user"
+    },
+    {
+      "nom": "omar",
+      "prenom": "ibrahim",
+      "email": "omar.ibrahim@example.com",
+      "password": "password567",
+      "adresse": "138 Avenue Habib Bourguiba, Gabès",
+      "telephone": "+216 22 33 44 55",
+      "role": "user"
+    },
+    {
+      "nom": "bensaid",
+      "prenom": "dali",
+      "email": "bensaid.dali@example.com",
+      "password": "password890",
+      "adresse": "150 Rue de l'Indépendance, Médenine",
+      "telephone": "+216 66 77 88 99",
+      "role": "user"
+    }
+  ]
+  

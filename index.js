@@ -17,9 +17,7 @@ const path = require('path');
 // Set EJS as the view engine
 app.set('view engine', 'ejs');
 
-// Set the views directory
-
-  
+const authRoutes = require('./routes/authRoutes');
 const userRoutes = require('./routes/userRoutes');
 const categorieRoutes = require('./routes/categorieRoutes');
 const produitRoutes = require('./routes/produitRoutes');
@@ -28,7 +26,7 @@ const ligneCommandeRoutes = require('./routes/ligneCommandeRoutes')
 const messageRoutes = require('./routes/messageRoutes')
 const reclamationRoutes = require('./routes/reclamationRoutes')
 
-
+app.use('/api/auth', authRoutes)
 app.use('/api', userRoutes);
 app.use("/api",categorieRoutes)
 app.use("/api",produitRoutes)
